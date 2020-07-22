@@ -1,0 +1,58 @@
+
+body {background: #eecb7a;}
+#entry {
+    border: 1px solid rgb(245, 223, 103);
+    border-top: 0;
+    font-size: 25px;
+    height: 100%;
+}
+dl {
+    background-color: #ecd7a7;
+    border-top: 1px solid #ddd;
+    border-top: 0;
+}
+dt {
+    padding: 10px;
+    border-top: 1px solid #ddd;
+    
+}
+dd {
+    background-color: #ecd7a7;
+    border-left: 1px solid #ddd;
+    margin-left: 13em;
+}
+input#inputName {
+    width: 15em;
+    padding: 3px;
+}
+input#inputEmail {
+    width: 25em;
+    padding: 3px;
+}
+textarea#inputContent {
+    width: 15em;
+    padding: 2em;
+}
+p.error_msg {color: red ;}
+button {
+    text-align: center;
+    text-align: center;
+    background-color: #b7a077;
+    border: 1px solid #b7a077;
+    padding: 15px 100px;
+    border-radius: 10px;
+    font-size: 18px;
+    color: #fff;
+    margin: auto;
+}
+.button_wrapper{
+    text-align:center;
+    padding: 20px;
+ }
+ button:hover {
+     background-color: #c7ae81;
+ }
+ p {
+     font-size: 20px;
+     font-weight: bold;
+    }
